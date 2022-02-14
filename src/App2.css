@@ -1,0 +1,22 @@
+input{
+    color: red;
+    width: 200px;
+    line-height: 100px;
+    margin: 6px;
+    text-align: center;
+    font-size: 2em;
+    border-radius: 8px;
+    border: 1px dotted darkred;
+    outline: none;
+
+}
+.caja{
+    font-size: 3rem;
+    display: flex;
+    align-items: center;
+}
+button{
+    font-size: 2rem;
+    padding: 5px 15px;
+    color: darkblue;
+}
